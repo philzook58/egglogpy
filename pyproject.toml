@@ -1,0 +1,6 @@
+[project]
+name = "egglogpy"
+version = "0.1"
+authors = [{ name = "Philip Zucker" }]
+description = "A wrapper around egglog for python"
+dependencies = ["egglog"]
